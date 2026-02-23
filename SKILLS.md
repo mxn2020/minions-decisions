@@ -1,6 +1,12 @@
 ---
 name: minions-decisions
-description: Logged decisions with rationale, alternatives, and outcome
+id: OC-0123
+version: 1.0.0
+description: "Logged decisions with rationale, alternatives, and outcome"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-decisions — Agent Skills
