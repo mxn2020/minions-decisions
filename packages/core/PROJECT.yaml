@@ -6,3 +6,4 @@ description: "Logged decisions with rationale, alternatives, and outcome"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
