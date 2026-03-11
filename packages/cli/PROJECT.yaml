@@ -1,0 +1,8 @@
+name: "@minions-decisions/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-decisions-workspace
+description: "CLI for minions-decisions — Logged decisions with rationale, alternatives, and outcome"
+priority: high
+deploy_url: null
+tags: null

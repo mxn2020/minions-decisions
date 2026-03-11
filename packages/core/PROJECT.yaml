@@ -1,0 +1,8 @@
+name: "@minions-decisions/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-decisions-workspace
+description: "Logged decisions with rationale, alternatives, and outcome"
+priority: high
+deploy_url: null
+tags: null
