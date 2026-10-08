@@ -1,6 +1,6 @@
 {
   "name": "@minions-decisions/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Logged decisions with rationale, alternatives, and outcome",
   "type": "module",
   "main": "./dist/index.js",

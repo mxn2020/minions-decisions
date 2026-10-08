@@ -1,6 +1,6 @@
 {
   "name": "@minions-decisions/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-decisions — Logged decisions with rationale, alternatives, and outcome",
   "license": "MIT",
   "repository": {
